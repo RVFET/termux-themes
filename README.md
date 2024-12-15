@@ -3,9 +3,5 @@
 
 ## Choose/Install any color scheme with this command:
 ```shell
-bash -c "$(curl -fsSL 'https://raw.githubusercontent.com/AvinashReddy3108/Gogh4Termux/master/install.sh')"
-```
-### Shorter version, good for shell alias.
-```shell
-bash -c "$(curl -fsSL 'https://git.io/JURDN')"
+bash -c "$(curl -fsSL 'https://raw.githubusercontent.com/rvfet/termux-themes/master/install.sh')"
 ```
